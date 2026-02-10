@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Harikrishnan 👋
 
-<!--
-**Harikrishnan-2004/Harikrishnan-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel  
+📊 Interested in real-world analytics projects and skill-based hiring roles
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Power BI (DAX, Power Query, Dashboards)
+- SQL (Joins, Subqueries, Aggregations)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, Lookups)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Telecom Churn Analysis (Power BI)
+- Final Year College Project
+
+📫 Reach me:  
+- LinkedIn: (add link)
+- Email: (optional)
